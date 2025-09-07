@@ -8,7 +8,7 @@ export default function App() {
       title: "Prison Break",
       description:
         "A man gets himself imprisoned to save his brother from death row.",
-      posterURL: "/public/pb.jpg",
+      posterURL: "/pb.jpg",
       rating: 5,
       link: "https://hdtodayz.to/tv/watch-prison-break-hd-39531",
     },
@@ -16,7 +16,7 @@ export default function App() {
       title: "Breaking Bad",
       description:
         " A chemistry teacher turns to making meth to secure his family's future.",
-      posterURL: "/public/bb.jpg",
+      posterURL: "/bb.jpg",
       rating: 4,
       link: "https://hdtodayz.to/tv/watch-stranger-things-hd-39444",
     },
@@ -24,7 +24,7 @@ export default function App() {
       title: "stranger things",
       description:
         "A group of kids in the 80s uncover supernatural mysteries in their small town.",
-      posterURL: "/public/strangerthings.jpg",
+      posterURL: "/strangerthings.jpg",
       rating: 5,
       link: "https://hdtodayz.to/tv/watch-stranger-things-hd-39444",
     },
@@ -32,7 +32,7 @@ export default function App() {
       title: "Home Alone",
       description:
         " an 8-year-old kid defends himself from burglars after being left home alone.",
-      posterURL: "/public/homealone.jpg",
+      posterURL: "/homealone.jpg",
       rating: 5,
       link: "https://hdtodayz.to/movie/watch-home-alone-hd-58995",
     },
@@ -40,7 +40,7 @@ export default function App() {
       title: "harry potter",
       description:
         "a young wizard discovers his magical heritage and attends a school for wizards",
-      posterURL: "/public/harrypotter.jpg",
+      posterURL: "/harrypotter.jpg",
       rating: 5,
       link: "https://hdtodayz.to/movie/watch-harry-potter-and-the-philosophers-stone-hd-19812",
     },
@@ -48,7 +48,7 @@ export default function App() {
       title: "TMNT",
       description:
         " four mutated turtules trained in ninjutsu fight crime in new york city",
-      posterURL: "/public/tmnt.jpg",
+      posterURL: "/tmnt.jpg",
       rating: 5,
       link: "https://hdtodayz.to/movie/watch-teenage-mutant-ninja-turtles-hd-19689",
     },
@@ -56,7 +56,7 @@ export default function App() {
       title: "Mr Robot",
       description:
         "A troubled hacker is recruited by a mysterious anarchist to join a cyber-activist group",
-      posterURL: "/public/mrrobot.jpg",
+      posterURL: "/mrrobot.jpg",
       rating: 3,
       link: "https://hdtodayz.to/tv/watch-mr-robot-hd-39403",
     },
@@ -64,7 +64,7 @@ export default function App() {
       title: "Mr Bean",
       description:
         "A clumsy loner causes chaos with silent comedy and wild antics. ",
-      posterURL: "/public/mrbean.jpg",
+      posterURL: "/mrbean.jpg",
       rating: 4,
       link: "https://hdtodayz.to/tv/watch-mr-bean-hd-38399",
     },
