@@ -9,7 +9,7 @@ export default function Filter({
     <div className="flex justify-between p-4 ">
       <div className="flex">
         <img
-          src="/public/movieappimg.png"
+          src="/movieappimg.png"
           alt="logo"
           className="hidden h-11 mt-3.5 lg:block lg:h-16 sm:hidden md:block md:h-16"
         />
